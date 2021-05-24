@@ -6,5 +6,6 @@ It is a simple maths game in which user have to predict the correct multiplicati
 <br>
 <hr> </hr>
 
+
 ![Untitled Document (1)](https://user-images.githubusercontent.com/73739820/119400705-2bf01e00-bcf8-11eb-83c3-fd4de50668ec.png)
 
